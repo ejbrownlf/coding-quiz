@@ -7,4 +7,4 @@ Example image:
 ![alt text](/assets/images/Screenshot_2.png)
 
 Website link:
-https://ejbrownlf.github.io/coding-quiz-hw4/
+https://ejbrownlf.github.io/coding-quiz/
